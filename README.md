@@ -1,1 +1,2 @@
-- 🌱 I’m currently learning ...
+- Hello!
+- I am QA Engineer junior
