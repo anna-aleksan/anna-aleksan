@@ -17,7 +17,9 @@
 - SQL (основы)
 
 Учебные проекты:
+
 [Тестирование интернет-магазина](https://github.com/annaalexan/qa-engineer-project-84)
+
 [Тестирование web-приложения CodeBattle](https://github.com/annaalexan/qa-engineer-project-85)
 
 Изучаю 2024:
