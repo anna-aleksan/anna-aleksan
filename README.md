@@ -23,10 +23,13 @@ __Учебные проекты:__
 [Тестирование web-приложения CodeBattle](https://github.com/annaalexan/qa-engineer-project-85)
 
 __Изучаю 2024:__
-- SQL
+- SQL функции и JOIN
+- ОС Linux
+- HTTP, REST, API
+- Web UI - HTML, JS, CSS
+- Автоматизация тестирования на Java
 <div id="header" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="25"/>
 </div>
 
