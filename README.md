@@ -14,6 +14,7 @@ __Умею:__
 - Visual Studio Code
 - MS Office Excel
 - HTTP API (применяла изучаю в Postman)
+- HTML (основы)
 - SQL (основы)
 
 __Учебные проекты:__
