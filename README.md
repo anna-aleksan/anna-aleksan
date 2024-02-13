@@ -1,5 +1,4 @@
 - Hello!
-- I am QA Engineer junior
 - [CV](https://docs.google.com/document/d/1vFF_LdyqR0e-VaM2zAjMWQPhediHXYUqgkpZVNqwtu0/edit?usp=drive_link)
 
 __Умею:__
